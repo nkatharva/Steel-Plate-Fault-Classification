@@ -1,0 +1,2 @@
+# Steel-Plate-Fault-Classification
+The aim of this project was to create the base models of some of the machine learning algorithms that are frequently used in a classification problem statement .  This jupyter notebook demonstrates the data analysis, insight building, feature selection, model development and model tuning. Also, the reasoning of every step is given so that everyone can understand the process.
